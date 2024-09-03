@@ -1,0 +1,7 @@
+Nombres: Angel Daniel 
+Apellidos: Mnauel torres
+Edad: 18 años
+Estatura: 181 cm
+Telefono: 9613309389
+Genero: Hombre
+
