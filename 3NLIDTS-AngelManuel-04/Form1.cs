@@ -141,7 +141,7 @@ namespace _3NLIDTS_AngelManuel_04
                 textbox.Clear();
             }
         }
-        //Hola Angel
+        //Hola Angel Daniel Manuel Torres
 
         private void Form1_Load(object sender, EventArgs e)
         {
