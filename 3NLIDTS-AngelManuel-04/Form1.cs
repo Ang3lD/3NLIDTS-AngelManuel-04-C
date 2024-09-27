@@ -48,7 +48,7 @@ namespace _3NLIDTS_AngelManuel_04
             }
             MessageBox.Show("Datos guardados exitosamente.");
         }
-
+//Revision
         private void btnLimpiar_Click(object sender, EventArgs e)
         {
             txtNombres.Clear();
